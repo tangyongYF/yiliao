@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 医疗报告翻译官 (Medical Report Translator)",
+  "description": "专为中老年人设计的智能医疗报告解读工具，通过AI将晦涩的医学术语转化为通俗易懂的生活化语言，提供三步式健康解读。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
